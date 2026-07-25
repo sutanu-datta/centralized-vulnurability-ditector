@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.*
+
+# Build
+dist/
+build/
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite3
+
+# Reports (optional)
+reports/
+*.pdf
+
+# Scanner outputs (optional)
+*.xml
+*.nmap
+*.gnmap
